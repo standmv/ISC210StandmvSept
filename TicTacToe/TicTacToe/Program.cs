@@ -14,7 +14,7 @@ namespace TicTacToe
     public class Game
     {
         public GameState CurrentState { get; set; }
-        public short[,] Board { get; set; }
+        public char[,] Board { get; set; }
         public bool CurrentPlayer { get; set; }
     }
 
@@ -108,6 +108,7 @@ namespace TicTacToe
         static void GetInput()
         {
             string _currentInput;
+            int i, j;
             while (true)
             {
                 switch (CurrentGame.CurrentState)
@@ -119,6 +120,12 @@ namespace TicTacToe
                     case GameState.Starting:
                         _currentInput = Console.ReadKey().KeyChar.ToString();
                         CurrentGame.CurrentState = GameState.Playing;
+                        break;
+                    case GameState.Playing:
+                        _currentInput = Console.ReadKey().KeyChar.ToString();
+                        i = 0;
+                        j = (Convert.ToInt32(_currentInput) - 1) % 3;
+                        CurrentGame.Board[0,j] = CurrentGame.CurrentPlayer ? 'O' : 'x';
                         break;
                 }
             }
