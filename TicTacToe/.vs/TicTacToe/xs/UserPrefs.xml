@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{416F5F90-EEF6-45AE-BE48-42DD6893E985}|Default">
-  <MonoDevelop.Ide.ItemProperties.TicTacToe FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Program.cs">
     <Files>
-      <File FileName="TicTacToe/Program.cs" Line="24" Column="1" />
+      <File FileName="TicTacToe/Program.cs" Line="151" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,6 +13,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

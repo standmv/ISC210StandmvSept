@@ -1,6 +1,5 @@
 /Users/StanDeMoya/Documents/GitHub/ISC210StandmvSept/TicTacToe/TicTacToe/bin/Debug/TicTacToe.exe
 /Users/StanDeMoya/Documents/GitHub/ISC210StandmvSept/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
-/Users/StanDeMoya/Documents/GitHub/ISC210StandmvSept/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.csprojAssemblyReference.cache
 /Users/StanDeMoya/Documents/GitHub/ISC210StandmvSept/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.csproj.CoreCompileInputs.cache
 /Users/StanDeMoya/Documents/GitHub/ISC210StandmvSept/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.exe
 /Users/StanDeMoya/Documents/GitHub/ISC210StandmvSept/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.pdb
