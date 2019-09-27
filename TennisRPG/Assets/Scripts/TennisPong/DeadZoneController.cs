@@ -6,7 +6,7 @@ public class DeadZoneController : MonoBehaviour
 {
 	public TextMesh PlayerOneText, PlayerTwoText;
 	public GameObject PlayerOne, PlayerTwo;
-	static int _scoreOne, _scoreTwo;
+	public static int _scoreOne, _scoreTwo;
 	public GameObject Ball;
 	bool _playerOneScored;
     // Start is called before the first frame update

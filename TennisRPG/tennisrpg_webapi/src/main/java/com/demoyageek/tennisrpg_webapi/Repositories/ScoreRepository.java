@@ -8,5 +8,5 @@ import org.springframework.stereotype.Repository;
 @Repository
 @RepositoryRestResource(path = "/score", collectionResourceRel = "scores")
 public interface ScoreRepository extends JpaRepository<Score, Integer> {
-    
+
 }
