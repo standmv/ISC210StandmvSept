@@ -26,12 +26,30 @@ public class WebServiceClient : MonoBehaviour
 	{
 		if (Input.GetButtonDown("Fire3"))
 		{
-			StartCoroutine(SendPostRequest("http://localhost:8080/score"));
-			//StartCoroutine(SendPostRequest("http://10.128.152.50:57085/api/values"));
+            Scores newScore = new Scores
+            {
+                name = "Stan",
+                score = 9
+            };
+
+            StartCoroutine(PostRequest("http://localhost:8080/score", JsonUtility.ToJson(newScore)));
 		}
 	}
 
-	IEnumerator SendRequest(string url)
+    IEnumerator PostRequest(string url, string bodyJsonString)
+    {
+        var request = new UnityWebRequest(url, "POST");
+        byte[] bodyRaw = new System.Text.UTF8Encoding().GetBytes(bodyJsonString);
+        request.uploadHandler = (UploadHandler)new UploadHandlerRaw(bodyRaw);
+        request.downloadHandler = (DownloadHandler)new DownloadHandlerBuffer();
+        request.SetRequestHeader("Content-Type", "application/json");
+
+        yield return request.SendWebRequest();
+
+        Debug.Log("Response: " + request.downloadHandler.text);
+    }
+
+    IEnumerator SendRequest(string url)
 	{
 		UnityWebRequest webRequest = UnityWebRequest.Get(url);
 
@@ -42,21 +60,5 @@ public class WebServiceClient : MonoBehaviour
 
 		else
 			Debug.Log(webRequest.downloadHandler.text);
-	}
-
-	IEnumerator SendPostRequest(string url)
-	{
-		Scores newScore = new Scores
-		{
-			name = "Stan",
-			score = DeadZoneController._scoreOne
-		};
-
-		www = UnityWebRequest.Post(url, JsonUtility.ToJson(newScore));
-		www.SetRequestHeader("Content-Type", "application/json");
-
-		yield return www.SendWebRequest();
-
-		Debug.Log(www.downloadHandler.text);
 	}
 }
