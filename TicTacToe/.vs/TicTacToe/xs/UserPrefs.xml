@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{416F5F90-EEF6-45AE-BE48-42DD6893E985}|Default">
   <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TennisRPG/Assets/Scripts/TennisPong/SoundManager.cs">
     <Files>
-      <File FileName="TicTacToe/Program.cs" Line="151" Column="39" />
+      <File FileName="../TennisRPG/Assets/Scripts/TennisPong/BallBehaviour.cs" Line="1" Column="1" />
+      <File FileName="../TennisRPG/Assets/Scripts/TennisPong/WebServiceClient.cs" Line="55" Column="28" />
+      <File FileName="../TennisRPG/Assets/Scripts/TennisPong/DeadZoneController.cs" Line="1" Column="1" />
+      <File FileName="../TennisRPG/Assets/Scripts/TennisPong/PlayerController.cs" Line="29" Column="88" />
+      <File FileName="../TennisRPG/Assets/Scripts/TennisPong/SoundManager.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +17,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
