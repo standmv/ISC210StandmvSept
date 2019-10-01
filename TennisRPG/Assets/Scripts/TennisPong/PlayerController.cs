@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
 		}
 		else if(!_isPlayerOne)
 		{
-			_deltaPos = Vector3.Lerp(Ball.transform.position, gameObject.transform.position, 0.6f);
+			_deltaPos = Vector3.Lerp(Ball.transform.position, gameObject.transform.position, 0.8f);
 			_deltaPos.x = transform.position.x;
 			transform.position = _deltaPos;
 		}

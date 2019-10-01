@@ -6,6 +6,7 @@ public class BallBehaviour : MonoBehaviour
 {
 	float _startingForceScalar = 5f;
 	Vector3 startingForce;
+	public SoundManager soundManager;
 	// Start is called before the first frame update
 	void Start()
 	{
@@ -27,5 +28,11 @@ public class BallBehaviour : MonoBehaviour
 			//gameObject.GetComponent<Rigidbody>().addForce(startingForce);
 			gameObject.GetComponent<Rigidbody>().velocity = startingForce;
 		}
+	}
+
+    private void OnTriggerEnter(Collider other)
+	{
+        if(other.gameObject.tag == "DeadZone")
+		    soundManager.SendMessage("PlayDeadZoneSound");
 	}
 }

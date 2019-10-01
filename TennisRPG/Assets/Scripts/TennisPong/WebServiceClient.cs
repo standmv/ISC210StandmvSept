@@ -1,23 +1,20 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 
-
+[Serializable]
 public class Scores
 {
-	public int Id;
-	public string PlayerName;
-	public int Score;
+	public string name;
+	public int score;
 }
+
 public class WebServiceClient : MonoBehaviour
 {
 
 	UnityWebRequest www;
-	void Awake()
-	{
-	    
-	}
 	// Start is called before the first frame update
 	void Start()
 	{
@@ -30,6 +27,7 @@ public class WebServiceClient : MonoBehaviour
 		if (Input.GetButtonDown("Fire3"))
 		{
 			StartCoroutine(SendPostRequest("http://localhost:8080/score"));
+			//StartCoroutine(SendPostRequest("http://10.128.152.50:57085/api/values"));
 		}
 	}
 
@@ -50,8 +48,8 @@ public class WebServiceClient : MonoBehaviour
 	{
 		Scores newScore = new Scores
 		{
-			PlayerName = "Stanley De Moya",
-			Score = DeadZoneController._scoreOne
+			name = "Stan",
+			score = DeadZoneController._scoreOne
 		};
 
 		www = UnityWebRequest.Post(url, JsonUtility.ToJson(newScore));
