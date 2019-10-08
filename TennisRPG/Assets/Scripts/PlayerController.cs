@@ -24,13 +24,6 @@ public class PlayerController : MonoBehaviour
 			_deltaPos = new Vector3(0, _movementSpeed * Input.GetAxis(_isPlayerOne ? "Player1" : "Player2"));
 			transform.Translate(_deltaPos);
 		}
-		else if(!_isPlayerOne)
-		{
-			_deltaPos = Vector3.Lerp(Ball.transform.position, gameObject.transform.position, 0.8f);
-			_deltaPos.x = transform.position.x;
-			transform.position = _deltaPos;
-		}
-        
         transform.position = new Vector3(gameObject.transform.position.x,
             Mathf.Clamp(gameObject.transform.position.y, _LOWERLIMIT, _UPPERLIMIT),
             gameObject.transform.position.z);
