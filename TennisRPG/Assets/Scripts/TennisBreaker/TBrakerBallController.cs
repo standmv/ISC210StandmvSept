@@ -19,7 +19,7 @@ public class TBrakerBallController : MonoBehaviour
         {
             //start playing
             startingForce = Vector3.zero;
-            startingForce.y = transform.parent.name == "Player1" ? 1 : -1;
+            startingForce.y = transform.parent.tag == "Player" ? 1 : -1;
             startingForce.x = Random.Range(0, 2) == 0 ? 1 : -1;
             startingForce *= _startingForceScalar;
             transform.SetParent(null);
