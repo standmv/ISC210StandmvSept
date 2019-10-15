@@ -31,12 +31,12 @@ public class GameController : MonoBehaviour
     {
         if (_lives == 0)
         {
-            /*Score newScore = new Score
+            Score newScore = new Score
             {
                 score = _score,
                 time = Time.time
             };
-            StartCoroutine(PostRequest("http://localhost:8080/score", JsonUtility.ToJson(newScore)));*/
+            StartCoroutine(PostRequest("http://localhost:8080/tbscore", JsonUtility.ToJson(newScore)));
             Application.Quit();
         }
     }
