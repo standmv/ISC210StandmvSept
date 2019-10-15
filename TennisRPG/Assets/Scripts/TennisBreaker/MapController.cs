@@ -43,7 +43,7 @@ public class MapController : MonoBehaviour
                         i++;
                         continue;
                 }
-                nuevaCelda = Instantiate(nuevaCelda, new Vector3(i - 6f, -j+4f, 0), Quaternion.identity);
+                nuevaCelda = Instantiate(nuevaCelda, new Vector3(i + 1.5f, -j + 0.5f), Quaternion.identity);
                 i++;
             }
             j++;

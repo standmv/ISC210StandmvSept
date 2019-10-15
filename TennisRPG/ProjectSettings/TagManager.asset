@@ -5,10 +5,6 @@ TagManager:
   serializedVersion: 2
   tags:
   - DeadZone
-  - Brick
-  - DoubleBrick
-  - PowerUp
-  - Bonus
   layers:
   - Default
   - TransparentFX

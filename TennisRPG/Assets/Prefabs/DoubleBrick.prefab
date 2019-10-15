@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 58695601923884417}
   m_Layer: 0
   m_Name: DoubleBrick
-  m_TagString: DoubleBrick
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -90,7 +90,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 58695601923884421}
   m_Material: {fileID: 13400000, guid: f7eb13bc75bbc4f649068d11fe0bf279, type: 2}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1.92, y: 0.64, z: 0.2}
@@ -107,5 +107,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 793297fd7ac5c406199463c7cf99eca5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PowerUp: {fileID: 8429389656939915341, guid: 6a8e1fbd258c2461990ff888bf34ccb2, type: 3}
-  brokenBrick: {fileID: 21300000, guid: 6e6b0df0c07784fd2a9d1218b1c0f328, type: 3}
