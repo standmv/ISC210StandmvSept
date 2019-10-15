@@ -49,7 +49,7 @@ public class WebServiceClient : MonoBehaviour
         Debug.Log("Response: " + request.downloadHandler.text);
     }
 
-    IEnumerator SendRequest(string url)
+    /*IEnumerator SendRequest(string url)
 	{
 		UnityWebRequest webRequest = UnityWebRequest.Get(url);
 
@@ -60,5 +60,5 @@ public class WebServiceClient : MonoBehaviour
 
 		else
 			Debug.Log(webRequest.downloadHandler.text);
-	}
+	}*/
 }
