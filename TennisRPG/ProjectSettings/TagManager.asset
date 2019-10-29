@@ -9,6 +9,12 @@ TagManager:
   - DoubleBrick
   - PowerUp
   - Bonus
+  - Trap
+  - Fiji
+  - MelonSoda
+  - Water
+  - Sprite
+  - PeachSoda
   layers:
   - Default
   - TransparentFX

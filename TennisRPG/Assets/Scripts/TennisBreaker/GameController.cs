@@ -19,17 +19,19 @@ public class GameController : MonoBehaviour
     public TextMesh LivesText;
     public int _lives;
     const int LIVES = 3;
+    bool _gameEnded;
     void Start()
     {
         _lives = LIVES;
         LivesText.text = _lives.ToString();
         ScoreText.text = _score.ToString();
+        _gameEnded = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (_lives == 0)
+        if (_lives == 0 && _gameEnded != true)
         {
             Score newScore = new Score
             {
@@ -37,6 +39,7 @@ public class GameController : MonoBehaviour
                 time = Time.time
             };
             StartCoroutine(PostRequest("http://localhost:8080/tbscore", JsonUtility.ToJson(newScore)));
+            _gameEnded = true;
             Application.Quit();
         }
     }

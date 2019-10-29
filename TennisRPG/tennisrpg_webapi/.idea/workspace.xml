@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eff29119-3c27-45ed-972c-18e5329b06c5" name="Default Changelist" comment="" />
+    <list default="true" id="eff29119-3c27-45ed-972c-18e5329b06c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -27,12 +29,12 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Entities/Score.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="135">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#357#358#0" expanded="true" />
@@ -55,10 +57,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Entities/TenisBreakerScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
                 <element signature="e#369#370#0" expanded="true" />
                 <element signature="e#402#403#0" expanded="true" />
                 <element signature="e#430#431#0" expanded="true" />
@@ -75,13 +78,37 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Repositories/TenisBreakerScoreRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Repositories/ScoreRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -94,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Entities/Score.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Repositories/ScoreRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Entities/TenisBreakerScore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Repositories/TenisBreakerScoreRepository.java" />
       </list>
     </option>
   </component>
@@ -110,8 +138,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +181,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tennisrpg_webapi" type="462c0819:PsiDirectoryNode" />
               <item name="Entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tennisrpg_webapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tennisrpg_webapi" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tennisrpg_webapi" type="462c0819:PsiDirectoryNode" />
+              <item name="Repositories" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,18 +250,18 @@
       <workItem from="1569938031363" duration="4211000" />
       <workItem from="1570112514569" duration="244000" />
       <workItem from="1570135355050" duration="934000" />
-      <workItem from="1571148410169" duration="583000" />
+      <workItem from="1571148410169" duration="1162000" />
+      <workItem from="1571706143571" duration="1921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8646000" />
+    <option name="totallyTimeSpent" value="11146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -234,7 +271,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,20 +319,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Repositories/ScoreRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Entities/Score.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="135">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#357#358#0" expanded="true" />
@@ -314,12 +341,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Entities/TenisBreakerScore.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Repositories/ScoreRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Repositories/TenisBreakerScoreRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demoyageek/tennisrpg_webapi/Entities/TenisBreakerScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
             <element signature="e#369#370#0" expanded="true" />
             <element signature="e#402#403#0" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
