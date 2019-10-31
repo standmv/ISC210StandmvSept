@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: b66894ff8d8654770acfb4d7d9cc2ced
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2708255228917433797
+    second: tenisplayer_0
+  - first:
+      213: -2176704986093480320
+    second: tenisplayer_1
+  - first:
+      213: -4529886269211131191
+    second: tenisplayer_2
+  - first:
+      213: -1555499082084233893
+    second: tenisplayer_3
+  - first:
+      213: 5241122032032647954
+    second: tenisplayer_4
+  - first:
+      213: -3380140385073538364
+    second: tenisplayer_5
+  - first:
+      213: -4320353970308704560
+    second: tenisplayer_6
+  - first:
+      213: 733803493684410780
+    second: tenisplayer_7
+  - first:
+      213: 6991933844909913898
+    second: tenisplayer_8
+  - first:
+      213: -6699517467358803779
+    second: tenisplayer_9
+  - first:
+      213: 2453245915895870123
+    second: tenisplayer_10
+  - first:
+      213: 4948683628954801615
+    second: tenisplayer_11
+  - first:
+      213: -4185788821799097588
+    second: tenisplayer_12
+  - first:
+      213: 4824982400954297602
+    second: tenisplayer_13
+  - first:
+      213: 770914477912566201
+    second: tenisplayer_14
+  - first:
+      213: 4868680871577235247
+    second: tenisplayer_15
+  - first:
+      213: -1968997105704606547
+    second: tenisplayer_16
+  - first:
+      213: 6039904910889944306
+    second: tenisplayer_17
+  - first:
+      213: -425120981378498600
+    second: tenisplayer_18
+  - first:
+      213: 4803126033250724572
+    second: tenisplayer_19
+  - first:
+      213: 1599828704778980184
+    second: tenisplayer_20
+  - first:
+      213: 976404267492116027
+    second: tenisplayer_21
+  - first:
+      213: 1133923203261697244
+    second: tenisplayer_22
+  - first:
+      213: -9024120480843633418
+    second: tenisplayer_23
+  - first:
+      213: 6539113632423755326
+    second: tenisplayer_24
+  - first:
+      213: -394349822115642249
+    second: tenisplayer_25
+  - first:
+      213: -1489175659904153440
+    second: tenisplayer_26
+  - first:
+      213: 5387700708604134880
+    second: tenisplayer_27
+  - first:
+      213: 5498854435204067315
+    second: tenisplayer_28
+  - first:
+      213: -5021095948453639944
+    second: tenisplayer_29
+  - first:
+      213: 501204924546398606
+    second: tenisplayer_30
+  - first:
+      213: -3860043789687604275
+    second: tenisplayer_31
+  - first:
+      213: -3264288135947925991
+    second: tenisplayer_32
+  - first:
+      213: -1878115119302693979
+    second: tenisplayer_33
+  - first:
+      213: 6453204310302073847
+    second: tenisplayer_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tenisplayer_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 762
+        width: 51
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab92dc5c87bc4fbd9274fcfe8dfefa2
+      internalID: 2708255228917433797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 759
+        width: 39
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a56839dd0ea4f38a986998133de807
+      internalID: -2176704986093480320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 762
+        width: 61
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007ace4911aac4f98b19675aae8e0585
+      internalID: -4529886269211131191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 761
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd9ef8b684634c6eaeeeb1c7706236a
+      internalID: -1555499082084233893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 759
+        width: 56
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d36374563854ddab3370f90b23a0e2
+      internalID: 5241122032032647954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_5
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 757
+        width: 59
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458da63f8b6a54ece870c7f59aee4e17
+      internalID: -3380140385073538364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 609
+        width: 68
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3336c3aa734d40cca88c383b56bc0b3
+      internalID: -4320353970308704560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 610
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd552d042a34378b6203625b8a7ce6
+      internalID: 733803493684410780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 607
+        width: 61
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa10b56fca447e19726cf55cabf423
+      internalID: 6991933844909913898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 609
+        width: 71
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4099e31c38c464946991b6c7d75d8e56
+      internalID: -6699517467358803779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 610
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454d4023079c741288fec60aecabc80a
+      internalID: 2453245915895870123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 609
+        width: 80
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586850f06e95439ea6aae283da9e37c
+      internalID: 4948683628954801615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 465
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b0a0ea63bb743f8bb63c521441a3d1
+      internalID: -4185788821799097588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 455
+        width: 69
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04875795922f54e54ad6d81c3b9c43d1
+      internalID: 4824982400954297602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 461
+        width: 67
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23bf9a87f7bc420f8f9ddcec8b0854b
+      internalID: 770914477912566201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 461
+        width: 62
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf2c81e635a9407fbf6b2647ad8b5b1
+      internalID: 4868680871577235247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 457
+        width: 91
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7debd78041e1649cebd9aa7b99ddb317
+      internalID: -1968997105704606547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_17
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 461
+        width: 47
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fbe3e7ecbfc4b63b8029ee5f711fa1
+      internalID: 6039904910889944306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 313
+        width: 77
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db16e0b9062d402db8151218aeefb52
+      internalID: -425120981378498600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 313
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7429cb42eaa94fc29be921f25a8795e
+      internalID: 4803126033250724572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 311
+        width: 48
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32139681c16044dedbc70ad462017889
+      internalID: 1599828704778980184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 313
+        width: 78
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02baa84a448d41acbd9d3650c033848
+      internalID: 976404267492116027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 313
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82460528b844746bd93faf3c60ec43fd
+      internalID: 1133923203261697244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 301
+        width: 79
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e79164df358942d1a2e52b6c07659eb
+      internalID: -9024120480843633418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 173
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed41c9df487746a9b3be6bfdb46fa4a
+      internalID: 6539113632423755326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 187
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdaca206137b432393b91dbb59a3c71
+      internalID: -394349822115642249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 154
+        width: 83
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88e62f24cc6843089fc1e87aaddf9c7
+      internalID: -1489175659904153440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 179
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c9c188584c45388aa48ab88010d45
+      internalID: 5387700708604134880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 189
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c407f192d3e204df0a4bb41d1daab9eb
+      internalID: 5498854435204067315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_29
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 154
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5facfa022b3ab45b3b0ff9fdbe987470
+      internalID: -5021095948453639944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a320fa42acc409f96a4823896bd273
+      internalID: 501204924546398606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cdc1fa704fa42318e2c706bfde1bb5
+      internalID: -3860043789687604275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4ae7a3ed929431d9707bd139728457
+      internalID: -3264288135947925991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_33
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 9
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c052ccd0874ffda80db39b0fc8707
+      internalID: -1878115119302693979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tenisplayer_34
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 7
+        width: 103
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113a218c42da4158a4f48705f3ca082
+      internalID: 6453204310302073847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
