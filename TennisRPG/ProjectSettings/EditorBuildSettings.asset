@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TennisEssence/TennisEssence.unity
     guid: dad25de366f4549759e3558a19dd9b9d
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4c6bbe0176c6640438c30e5d526309b1
   m_configObjects: {}
