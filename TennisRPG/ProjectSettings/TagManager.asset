@@ -15,6 +15,9 @@ TagManager:
   - Water
   - Sprite
   - PeachSoda
+  - NPC
+  - Enemy
+  - EssenceItem
   layers:
   - Default
   - TransparentFX
@@ -24,9 +27,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Tile
+  - Item
+  - Character
   - 
   - 
   - 
@@ -51,4 +54,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Tile
+    uniqueID: 2323819381
+    locked: 0
+  - name: Item
+    uniqueID: 466501269
+    locked: 0
+  - name: Character
+    uniqueID: 2079709515
     locked: 0

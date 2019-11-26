@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <map width="72" height="40" tilewidth="128" tileheight="128">
+    <row><![CDATA[SSVVVVrVmmmmmmmmmmmVVVVVSSSSVVVVVVVVSVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVSVU]]></row>
+	<row><![CDATA[TFFFBqrrrSmmmmmmmmmmmmmmmmmmSVVVVVVVSVVVVVVVSSSSSSSSSSSSVVVVVVVVVVVVSVVT]]></row>
+	<row><![CDATA[SpFEEEqorrrmmmmmmmmVVmmmmmmSmSSSVVVVSVVVVSSSVVVVVVVVVVVVSVVVVVVVVVVSSVVU]]></row>
+	<row><![CDATA[UpppEEEqoorrrrmmmmmmmmmmSmmmmmVSSVVVSVVSSVVVVVVVVVVVVVVVVSVVVVVVVVVSSVVS]]></row>
+	<row><![CDATA[SnnppDEEqooooormmVSmmmmmmmmmmmmmmSSVSSSVVVVVVVVVVVVVVVVVVVSVVVVVVSSSSVVU]]></row>
+	<row><![CDATA[mSnppGEEEJqqqooooomSSmmmmmmmSVVVmVVmSVVVVVVVVVVVVVVVVVVVVVVSVVVVSVSVSVVT]]></row>
+	<row><![CDATA[mmnppGSVVSSSqqqqiimmmmmmmmmmSSVVmmmmSSVVVVVVVSSSSSSSSSSVVVVSVVVSVVSVSVVS]]></row>
+	<row><![CDATA[mmVnppSVVSSVVVVqqiioVmmmmVmmmmmmmVmmSVSVSSSSSVVVVVSSSSSSSSSVSSSSVSVVSVVT]]></row>
+	<row><![CDATA[TmmnnpppSSVVVVVSqqiooVVmmmmmmmmmmmVmmVSSSVVSVVVVVSSSSVSSVVVSSSSVSSVVSVVT]]></row>
+	<row><![CDATA[UmmmnnnppSVVVVVSVqqqooooSmmVmVmmmmmSmmVVVSSSSVVSSVVVVSVSVVVVSSVVSVVVSVVS]]></row>
+	<row><![CDATA[UmmmmmnnppVVVVSSVVVVqqiooSSmmmVVqmmmmmVVVVVSSVSSVVVVVSVSVVVVSVSVSVVVSVVS]]></row>
+	<row><![CDATA[TmmmmmmVnpVVVVSSVVSSSqqiioSSSmmmSSmmmmmSSSSSSSSVVVVVSVVSVVVSSSSSVSVVSVVT]]></row>
+	<row><![CDATA[SmmmmmmSnppVVSVSSSVVVVqqiioVVSVmmSVVSVSVVVSSSSSSVVVVSVVSVVVSSVVSVSVVSVVU]]></row>
+	<row><![CDATA[mmmmmmmmnnpoSVSSSVVVVVVqiioVVSVmmVVVSVVSSSSVSSVVSSSSSVSVVVSVSVVSSSVVSVVS]]></row>
+	<row><![CDATA[mmmmmmmmSnSppSVSVVVVVVSVqqooVVSVSVVVSVVVVVSSSVSVVVVSSSSVVSVVSVSSSVSVSVVS]]></row>
+	<row><![CDATA[mmmmmSmmmnnnpoVSVVVVVVSVSqqoVSSVSVVVSVVVVVSSVSSVVVSVSSSSSVVVSVSVSSSVSSSS]]></row>
+	<row><![CDATA[mmmmSmmSmmSnnpoSSSVVVVSVSVVoSSSVSVVVSVVVVVSSVVSSSSSSSSSSSSSSSSSSSSSSVSVT]]></row>
+	<row><![CDATA[mmmmSmmmmmmmSpppSVSSVSVVSVVooooSSSVSVVVVVVSSVVSSVSSVSVVSVSVVSSVVVSSVVSVU]]></row>
+	<row><![CDATA[mmmmmmmmSmmmmVnppSVVSSSVSVVSVSooSVSSSSSSSSSSSSSSSSSSSVSVVSVVSVVVVSSSVSVT]]></row>
+	<row><![CDATA[mmmmmmmmVSmmmmnnppVVSVVSVSSVSVVoSVVSVVVSVVSSSVVSSVVVSSSSSSVVSSVVVSSSVSVT]]></row>
+	<row><![CDATA[mmmmmSmmmmmmmmmVnpppSSSSSSSSSSSooSSSSSSSSSSVVVSSSVVVSVVVVSVSSSVVVSVSVSVT]]></row>
+	<row><![CDATA[TmmmmSmmmmmmmmmmSnnpppVVVSSVVVVSooVSVVSSSVSVSSSVVSVVSVVVSVVSSSVVVSVSVSVU]]></row>
+	<row><![CDATA[mmmmmSmmmmVVmmmmmSnnoopVSSSSSVVSSoSSVSSVVVSSVVSVVVSVSVVSVVSVSSVVVSVSVSVT]]></row>
+	<row><![CDATA[mmmmmVmmSmmmmmmmmmmSnnopSSSSSSSSSooVSSSSSSSVVSVVVVSVSVSVVSVVSSVVVVSSVSVS]]></row>
+	<row><![CDATA[mmmVSVmmSmmVmmmmmmmVVnnppSVVVVVSSSoooSSVVSSSSVVVVVVSSSVVSVVVSSVVVVSSSSSU]]></row>
+	<row><![CDATA[mmmmSVmmSVmmVmSmmmmmVVnnppVVVVVVSSSSooSVVSVVVVVVVVVSSVVSVVSSVSVVVVSSSSVT]]></row>
+	<row><![CDATA[mTmmSVmmmVmmmmmmSVmmmmmVnppppVVVSSSSSoooVSVVVVVVVVSVSSSVVVVSVSVVSSSSSSVU]]></row>
+	<row><![CDATA[mmmmmSmmmSVmVmmmSSSmmmmmVVnnpppSSSVSSSSVoooVVVVSSSSSSSVVVVSVVSSSVVSSSSVT]]></row>
+	<row><![CDATA[SmmmmSmmmmmmmmmmmmVSmmmmmmSSnnppSSVSVVSSSVoooSSSSSVVSSVVVSSSSVSVVVVSSSVU]]></row>
+	<row><![CDATA[TmmmVmmVmmmVVVVmmmmmSmmmmmmmSnSppppSSSSSSmmmooVVVVSSVSSSSSVVVVSVVVVSVSVS]]></row>
+	<row><![CDATA[TmmmmSmSmmmmmmmmmSVmmmmmmmmmmnnooopVVVSVmmSmmoVVVSVVSSSVSVVVVVSVVVVSVSVT]]></row>
+	<row><![CDATA[UmmVmSmVmmVVmmVVmmmSSmmmmVmmmVnnnooooooSmVmmooVVSVSSVSVSSVVVVVVSVVSSVSVU]]></row>
+	<row><![CDATA[TUmVVmmmmmSSSVmmmmSmmmmmmmmmmVSSSnnnnnnommmVooSmSSVVVSVSSSSVVSSSSSVSVSVU]]></row>
+	<row><![CDATA[UUVVVVSVVmVVSSSSVSmmmSmmmmmmmmmmmmmSSVnnSmVoooSmmmSSSSSSSSSSSVVSVVVSVSVU]]></row>
+	<row><![CDATA[STVVVVSVVVSSVVVSVSSSVVSSVVmmmmmmmVmmmmSnmmoommmmmmVVVVVSVVVVSSVSVVVSVSVT]]></row>
+	<row><![CDATA[STVVVVSVSSVVVVVSVSSVVSVVVVVSSSSmmmmmmmSmmmmmVVmmVVVVVVVVVVVVVVVVSVVSVSVV]]></row>
+	<row><![CDATA[TSSSSSSSVVVVVVVSVVSSSVVVVVVSSSSSVVVVmmmSVSnmmmmVVVVVVVVVVVVVVVVVVSVSVSVT]]></row>
+	<row><![CDATA[STVVVVVSVVVVVVSVVVVVVVVVVVVVSSVVVVVmmSSSSmmmVVVVVVVVVVVVVVVVVVVVVVSVVSVV]]></row>
+	<row><![CDATA[UTVVVVVSVVVVVVSVVVVVVVVVVVVSSVVVVVVmmmmmmVVnnnVVVVVVVVVVVVVVVVVVVVSSSSSS]]></row>
+	<row><![CDATA[SUTUTSSSSSSSTSUSSUSUSUSSTSSSUSUTTTTSSUSSSSSUTnnnSUTUTTSTSSTSSTUUTSTTSUVT]]></row>
+  </map>
+  <characters>
+    <character id="0" uniqueObjectName="Player" prefabName="Player" posX="4" posY="2" tag="Player"/>
+    <character id="1" uniqueObjectName="Morah" prefabName="Morah" posX="38" posY="11" tag="NPC"/>
+    <character id="2" uniqueObjectName="Lionel" prefabName="Lionel" posX="22" posY="11" tag="NPC"/>
+    <character id="3" uniqueObjectName="Yuyu" prefabName="Yuyu" posX="17" posY="17" tag="NPC"/>
+    <character id="4" uniqueObjectName="Enemy1" prefabName="Enemy1" posX="34" posY="20" tag="Enemy"/>
+    <character id="5" uniqueObjectName="Enemy2" prefabName="Enemy1" posX="8" posY="20" tag="Enemy"/>
+    <character id="6" uniqueObjectName="Enemy3" prefabName="Enemy1" posX="55" posY="27" tag="Enemy"/>
+    <character id="7" uniqueObjectName="Enemy4" prefabName="Enemy1" posX="64" posY="3" tag="Enemy"/>
+  </characters>
+  <items>
+    <item id="0" uniqueObjectName="Chest1" prefabName="ChestBanana" posX="39" posY="29" tag="EssenceItem"/>
+    <item id="1" uniqueObjectName="Chest2" prefabName="ChestCherry" posX="38" posY="29" tag="EssenceItem"/>
+    <item id="2" uniqueObjectName="Chest3" prefabName="ChestGrape" posX="39" posY="28" tag="EssenceItem"/>
+    <item id="3" uniqueObjectName="Chest4" prefabName="ChestLemon" posX="38" posY="27" tag="EssenceItem"/>
+    <item id="4" uniqueObjectName="Chest5" prefabName="ChestOrange" posX="35" posY="30" tag="EssenceItem"/>
+    <item id="5" uniqueObjectName="Chest6" prefabName="ChestSeaweed" posX="39" posY="31" tag="EssenceItem"/>
+    <!--<item id="6" uniqueObjectName="CaveEntrance" prefabName="CaveEntrance" posX="" posY="" tag=""/>-->
+  </items>
+  <missions>
+    <mission id="1" description="Entrar a la cueva donde está guardado el café." prerequisites="">
+      <tasks>
+        <task id="1A" description="Hablar con Morah." prerequisites="">
+          <conditions>
+            <condition type="CloseTo" uniqueObjectNameFrom="Player" uniqueObjectNameTo="Morah" quantity="0"/>
+            <condition type="KeyPressed" uniqueObjectNameFrom="Submit" uniqueObjectNameTo="" quantity="0"/>
+          </conditions>
+          <actions>
+            <action type="ShowMessage" uniqueObjectNameFrom="Búscame mi café. Está en la cueva." uniqueObjectNameTo="" quantity="0"/>
+          </actions>
+        </task>
+        <task id="1B" description="Ir a la cueva." prerequisites="1A">
+          <conditions>
+            <condition type="CloseTo" uniqueObjectNameFrom="Player" uniqueObjectNameTo="CaveEntrance" quantity="0"/>
+          </conditions>
+          <actions>
+            <action type="ShowMessage" uniqueObjectNameFrom="...regresaré donde Morah, porque está cerrada." uniqueObjectNameTo="" quantity="0"/>
+          </actions>
+        </task>
+        <task id="1C" description="Volver a hablar con Morah." prerequisites="1B">
+          <conditions>
+            <condition type="CloseTo" uniqueObjectNameFrom="Player" uniqueObjectNameTo="Morah" quantity="0"/>
+            <condition type="KeyPressed" uniqueObjectNameFrom="Submit" uniqueObjectNameTo="" quantity="0"/>
+          </conditions>
+          <actions>
+            <action type="ShowMessage" uniqueObjectNameFrom="Se me olvidó decirte que perdí la llave. Habla con Lionel." uniqueObjectNameTo="" quantity="0"/>
+          </actions>
+        </task>
+        <task id="1D" description="Hablar con Lionel." prerequisites="1C">
+          <conditions>
+            <condition type="CloseTo" uniqueObjectNameFrom="Player" uniqueObjectNameTo="Lionel" quantity="0"/>
+            <condition type="KeyPressed" uniqueObjectNameFrom="Submit" uniqueObjectNameTo="" quantity="0"/>
+          </conditions>
+          <actions>
+            <action type="ShowMessage" uniqueObjectNameFrom="Vinieron unos bandidos y se la llevaron." uniqueObjectNameTo="" quantity="0"/>
+          </actions>
+        </task>
+        <task id="1E" description="Matar un bandido." prerequisites="1D">
+          <conditions>
+            <condition type="Destroyed" uniqueObjectNameFrom="Player" uniqueObjectNameTo="Enemy1" quantity="0"/>
+          </conditions>
+          <actions>
+            <action type="InventoryAdd" uniqueObjectNameFrom="Key1" uniqueObjectNameTo="" quantity="1"/>
+            <action type="ShowMessage" uniqueObjectNameFrom="Has conseguido la llave." uniqueObjectNameTo="" quantity="0"/>
+          </actions>
+        </task>
+        <task id="1F" description="Volver a la cueva." prerequisites="1E">
+          <conditions>
+            <condition type="CloseTo" uniqueObjectNameFrom="Player" uniqueObjectNameTo="CaveEntrance" quantity="0"/>
+            <condition type="Inventoried" uniqueObjectNameFrom="Key1" uniqueObjectNameTo="" quantity="1"/>
+          </conditions>
+          <actions>
+            <action type="LoadScene" uniqueObjectNameFrom="Platformer" uniqueObjectNameTo="" quantity="0"/>
+          </actions>
+        </task>
+      </tasks>
+    </mission>
+  </missions>
+</level>
+
